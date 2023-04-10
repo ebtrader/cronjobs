@@ -1,0 +1,2 @@
+MAILTO="jsiddique@gmail.com"
+*/2 * * * * /home/javed_tech/opt/python-3.8.2/bin/python3 /home/javed_tech/cheapcooking.store/public/get_posts.py
